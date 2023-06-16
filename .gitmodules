@@ -1,0 +1,40 @@
+[submodule "vendor/krkrsdl2"]
+	path = vendor/krkrsdl2
+	url = https://github.com/ookiineko/krkrsdl2_compat.git
+	branch = main
+[submodule "vendor/ncbind"]
+	path = vendor/ncbind
+	url = https://github.com/krkrsdl2/ncbind.git
+	branch = krkrsdl2
+[submodule "vendor/KAGParser"]
+	path = vendor/KAGParser
+	url = https://github.com/krkrsdl2/KAGParser.git
+	branch = krkrsdl2
+[submodule "vendor/SamplePlugin"]
+	path = vendor/SamplePlugin
+	url = https://github.com/krkrsdl2/SamplePlugin.git
+	branch = krkrsdl2
+[submodule "vendor/wuvorbis"]
+	path = vendor/wuvorbis
+	url = https://github.com/krkrsdl2/wuvorbis.git
+	branch = krkrsdl2
+[submodule "vendor/fstat"]
+	path = vendor/fstat
+	url = https://github.com/krkrsdl2/fstat.git
+	branch = krkrsdl2
+[submodule "vendor/json"]
+	path = vendor/json
+	url = https://github.com/krkrsdl2/json.git
+	branch = krkrsdl2
+[submodule "vendor/varfile"]
+	path = vendor/varfile
+	url = https://github.com/krkrsdl2/varfile.git
+	branch = krkrsdl2
+[submodule "vendor/krglhwebp"]
+	path = vendor/krglhwebp
+	url = https://github.com/krkrsdl2/krglhwebp.git
+	branch = krkrsdl2
+[submodule "vendor/kremscripten"]
+	path = vendor/kremscripten
+	url = https://github.com/krkrsdl2/kremscripten.git
+	branch = main
