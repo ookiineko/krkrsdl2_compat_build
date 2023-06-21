@@ -237,7 +237,7 @@
       "steps" : [
         {
           "name" : "Install dependencies",
-          "run" : "apk update\napk add cmake make ninja git curl\n"
+          "run" : "apk update\napk add build-base cmake make ninja git curl\n"
         },
         {
           "uses" : "actions/checkout@v2",
@@ -273,7 +273,7 @@
       "steps" : [
         {
           "name" : "Install dependencies",
-          "run" : "apt-get -y update\napt-get -y install cmake make ninja-build git curl\n"
+          "run" : "apt-get -y update\napt-get -y install build-essential cmake make ninja-build git curl\n"
         },
         {
           "uses" : "actions/checkout@v2",
